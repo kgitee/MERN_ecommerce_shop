@@ -1,5 +1,6 @@
 # MERN_ecommerce_shop
 A simple ecommerce shopping cart app created with MERN Stack (Mongo DB, Express.js, React.js and Node.js) and Redux.
+https://mcdowell-sports-shop.herokuapp.com/
 
 # Features
 
